@@ -59,7 +59,7 @@ app.post('/signup', async (req, res) => {
     })
 // تشغيل الخادم على المنفذ 3000
 app.listen(6000, () => {
-    console.log('I am listening in port 3001 !');
+    console.log('I am listening in port 6000 !');
 });
 
 
